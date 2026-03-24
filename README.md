@@ -1,5 +1,5 @@
 # sthylophone-rpi-pico
-pins:
+pins:<br>
   gpio 0-12 keyboard (c4-c5)
   gpio 13 - octave button (connect to gnd)
   adc0 - vibrato with off below 10% 
