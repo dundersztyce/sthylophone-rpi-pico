@@ -1,4 +1,4 @@
-# sthylophone-rpi-pico
+# stylophone-rpi-pico
 pins:<br>
   gpio 0-12 keyboard (c4-c5)<br>
   gpio 13 - octave button (connect to gnd)<br>
